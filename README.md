@@ -1,4 +1,4 @@
-# concrete-cracks-image-classifier
+# concrete-cracks-image-classifier-in-keras
 Image classifier for detection of cracks in concrete
 
 
